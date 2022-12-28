@@ -23,6 +23,8 @@ public class NavigationTests_Edge {
 
 
 
+
+
         WebElement cookiesButton = driver.findElement(By.xpath("//div[.= 'Accept all']"));
         cookiesButton.click();
 
